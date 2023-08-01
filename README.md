@@ -2,6 +2,9 @@
 
 ## 概览
 
+![avatar](win.png)
+![avatar](mac.png)
+
 - 【1】关于要迁移的存档的游戏 [「CKN&口袋群星SP《精灵宝可梦 皮卡丘》汉化版V1.1」](https://www.bilibili.com/read/cv8590363/)
 - 【2】关于新版本汉化 [「宝可梦 红/蓝、精灵宝可梦 红/绿/蓝 2023新版汉化」](https://github.com/TomJinW/pokeredCHS)、[「宝可梦 黄、精灵宝可梦 皮卡丘 2023新版汉化」](https://github.com/TomJinW/pokeyellowCHS)。
 - 本工具会转换【1】中生成的存档，供【2】使用。
