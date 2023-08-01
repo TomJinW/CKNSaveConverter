@@ -195,7 +195,7 @@ def getPrintedStr(slicedArray,mode):
 file_path = os.path.abspath(os.path.dirname(__file__))
 print()
 print('「精灵宝可梦 黄」CKN/口袋群星汉化版 v1.0 / v1.1 存档 ->')
-print('2023 年新版「宝可梦 红/蓝/黄」「精灵宝可梦 红/绿/蓝」汉化存档转换器')
+print('2023 年新版「宝可梦 红/蓝/黄」「精灵宝可梦 红/绿/蓝/皮卡丘」汉化存档转换器')
 print('-------------------------------------------------------------')
 print('（实际上Gen 1的存档是完全通用的...把黄的存档转到红绿蓝版也不是不可以）')
 print()
