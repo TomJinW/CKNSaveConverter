@@ -255,7 +255,7 @@ for k in range(2):
             newArray = convertAt(newArray,otNamesOffset,0xB,'盒子 ' + str(i + 1 + 6 * k) + '，初训家 ' + str(j + 1) + ' ')
         singleBoxChecksumOffset = offset + 0x1A4D + i
         newArray = setChecksum(newArray,boxOffset,boxOffset + 0x462,singleBoxChecksumOffset,'盒子 ' + str(i + 1 + 6 * k))
-    newArray = setChecksum(newArray,offset,offset + 0x15EA,offset + 0x1A4C,'Bank ' + str(1 + k))
+    newArray = setChecksum(newArray,offset,offset + 0x1A4B,offset + 0x1A4C,'Bank ' + str(1 + k))
 
 
 now = datetime.now()
